@@ -4,6 +4,17 @@
   box-sizing: border-box;
 }
 
+h1, h2 {
+  color: #393939;
+  font-family: 'Bungee Shade', sans-serif;
+  height: 80px;
+  line-height: 65px;
+  display: inline-block;
+  letter-spacing: 1px;
+  position: relative;
+  font-size: 1.35rem;
+}
+
 :focus {
   outline: none;
 }
